@@ -1,3 +1,22 @@
+Capstone Project:
+
+Bank Loan data analysis
+
+1.Project to analyze the bank loan data set. by using HDFS, Hive, Spark and  MongoDB
+
+2.Getting data into HDFS environment then creating database in hive 
+
+3.Creating sql data frame from the result of the hive query using Pyspark 
+
+4.Next converting the result  into dictionary and loading it into the mongodb using Pymongo.  
+
+
+
+
+
+
+
+
 FOLOWING ARE THE STEPS FOLLOWED FOR GETTING THE REQUIRED OUTCOME OF CAPSTONE PROJECT USING BANK_LOAN_DATA.CSV
 
 
